@@ -114,47 +114,57 @@ function Projects() {
 
         <div className="project-card">
 
-          <h3>MCA Program Portal</h3>
+          <div className="project-card">
 
-          <p className="project-desc">
-            A centralized academic platform developed for MCA students to access
-            notes, syllabus, previous year question papers and important exam
-            topics.
-          </p>
+    <h3>Emergency Doctor</h3>
 
-          <h4>Purpose</h4>
+    <p className="project-desc">
+        An emergency healthcare platform that connects patients
+        with doctors during medical emergencies using SOS alerts
+        and location tracking.
+    </p>
 
-          <p>
-            Simplifies academic preparation by providing all semester resources
-            in one organized platform.
-          </p>
+    <h4>Purpose</h4>
 
-          <h4>Tech Stack</h4>
+    <p>
+        Helps patients request emergency medical assistance,
+        enables doctors to respond to SOS alerts, and allows
+        patients to access their prescriptions.
+    </p>
 
-          <div className="tech-stack">
-            <span>React.js</span>
-            <span>Node.js</span>
-            <span>Express.js</span>
-            <span>MongoDB</span>
-          </div>
+    <h4>Tech Stack</h4>
 
-          <h4>Features</h4>
+    <div className="tech-stack">
+        <span>HTML</span>
+        <span>Tailwind CSS</span>
+        <span>JavaScript</span>
+        <span>Node.js</span>
+        <span>Express.js</span>
+        <span>MongoDB</span>
+        <span>Leaflet</span>
+    </div>
 
-          <ul>
-            <li>Semester Notes</li>
-            <li>Syllabus</li>
-            <li>PYQ Download</li>
-            <li>Important Topics</li>
-          </ul>
+    <h4>Features</h4>
 
-          <a
-            href="YOUR_MCA_GITHUB_LINK"
-            target="_blank"
-            rel="noreferrer"
-            className="project-btn"
-          >
-            View Project →
-          </a>
+    <ul>
+        <li>Emergency SOS Alerts</li>
+        <li>Patient Registration</li>
+        <li>Doctor Assignment</li>
+        <li>Location Tracking</li>
+        <li>Digital Prescriptions</li>
+        <li>Doctor, Patient and Admin Login</li>
+    </ul>
+
+    <a
+        href="#"
+        className="project-btn"
+        target="_blank"
+        rel="noreferrer"
+    >
+        View Project →
+    </a>
+
+</div>
 
         </div>
 

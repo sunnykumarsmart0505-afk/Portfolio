@@ -57,7 +57,7 @@ function Contact() {
       target="_blank"
       rel="noreferrer"
     >
-      github.com/yourusername
+      Sunnykumarsmart0505-afk
     </a>
   </div>
 
@@ -68,7 +68,7 @@ function Contact() {
       target="_blank"
       rel="noreferrer"
     >
-      linkedin.com/in/yourusername
+      www.linkedin.com/in/sunny-kumar-339879322
     </a>
   </div>
    

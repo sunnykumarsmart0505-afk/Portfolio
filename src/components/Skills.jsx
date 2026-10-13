@@ -9,7 +9,6 @@ function Skills() {
       <ul>
         <li>HTML</li>
         <li>CSS</li>
-        <li>JavaScript</li>
         <li>ReactJS</li>
       </ul>
 
@@ -17,13 +16,14 @@ function Skills() {
 
       <ul>
         <li>NodeJS</li>
-        <li>ExpressJS</li>
+        
       </ul>
 
       <h3>Database</h3>
 
       <ul>
         <li>MongoDB</li>
+        <li> DBMS </li>
       </ul>
 
       <h3>Programming Languages</h3>
